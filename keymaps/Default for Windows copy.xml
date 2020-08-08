@@ -1,0 +1,25 @@
+<keymap version="1" name="Default for Windows copy" parent="$default">
+  <action id="EditorCreateRectangularSelectionOnMouseDrag">
+    <mouse-shortcut keystroke="alt button1" />
+  </action>
+  <action id="EditorEscape">
+    <keyboard-shortcut first-keystroke="escape" />
+    <keyboard-shortcut first-keystroke="shift i" />
+  </action>
+  <action id="EditorPasteFromX11" />
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+    <mouse-shortcut keystroke="control button1" />
+  </action>
+  <action id="IntroduceVariable" />
+  <action id="RenameFile">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="alt enter" />
+    <mouse-shortcut keystroke="button2" />
+  </action>
+</keymap>
