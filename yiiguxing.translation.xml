@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="未分类的" />
       <item value="全勤全返" />
       <item value="保存排序" />
       <item value="保存败絮" />
@@ -50,7 +51,6 @@
       <item value="mini" />
       <item value="短视频" />
       <item value="精心选择" />
-      <item value="精品" />
     </histories>
     <option name="languageScores">
       <map>
