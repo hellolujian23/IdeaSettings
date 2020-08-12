@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="榜单" />
+      <item value="周榜" />
+      <item value="精品" />
+      <item value="精品小课" />
       <item value="平铺的" />
       <item value="平铺" />
       <item value="未分类的" />
@@ -47,10 +51,6 @@
       <item value="系数" />
       <item value="加权系数" />
       <item value="加权" />
-      <item value="计算" />
-      <item value="打标" />
-      <item value="pro" />
-      <item value="mini" />
     </histories>
     <option name="languageScores">
       <map>
