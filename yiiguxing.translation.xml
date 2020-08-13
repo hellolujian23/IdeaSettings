@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="受控的" />
+      <item value="受控" />
       <item value="栅格" />
       <item value="compact" />
       <item value="榜单" />
@@ -49,8 +51,6 @@
       <item value="启用" />
       <item value="层次" />
       <item value="层次的" />
-      <item value="打标签的" />
-      <item value="系数" />
     </histories>
     <option name="languageScores">
       <map>
