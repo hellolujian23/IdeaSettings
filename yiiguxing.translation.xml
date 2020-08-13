@@ -2,6 +2,10 @@
   <component name="AppStorage">
     <histories>
       <item value="受控的" />
+      <item value="控制" />
+      <item value="被管理的" />
+      <item value="需要被控制的" />
+      <item value="可以控制的" />
       <item value="受控" />
       <item value="栅格" />
       <item value="compact" />
@@ -47,10 +51,6 @@
       <item value="传递数据" />
       <item value="转移数据" />
       <item value="提醒" />
-      <item value="提示" />
-      <item value="启用" />
-      <item value="层次" />
-      <item value="层次的" />
     </histories>
     <option name="languageScores">
       <map>
