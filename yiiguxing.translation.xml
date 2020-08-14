@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="后台" />
       <item value="受控的" />
       <item value="控制" />
       <item value="被管理的" />
@@ -50,7 +51,6 @@
       <item value="代码优化" />
       <item value="传递数据" />
       <item value="转移数据" />
-      <item value="提醒" />
     </histories>
     <option name="languageScores">
       <map>
