@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="打码" />
+      <item value="大码" />
+      <item value="加码" />
+      <item value="加星" />
       <item value="关联" />
       <item value="后台" />
       <item value="受控的" />
@@ -47,10 +51,6 @@
       <item value="feature" />
       <item value="特色的" />
       <item value="特色筛选项" />
-      <item value="筛选" />
-      <item value="特色标签" />
-      <item value="代码优化" />
-      <item value="传递数据" />
     </histories>
     <option name="languageScores">
       <map>
