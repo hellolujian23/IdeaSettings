@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="黑名单" />
       <item value="变量" />
       <item value="清空" />
       <item value="完全自定义" />
@@ -50,7 +51,6 @@
       <item value="限时促销" />
       <item value="优惠" />
       <item value="限时优惠" />
-      <item value="免费试学" />
     </histories>
     <option name="languageScores">
       <map>
