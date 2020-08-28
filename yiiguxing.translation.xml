@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="normalize" />
       <item value="有冲突" />
       <item value="冲突" />
       <item value="黑名单" />
@@ -50,11 +51,10 @@
       <item value="一瞬" />
       <item value="一瞬间" />
       <item value="flash" />
-      <item value="限时促销" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="34" />
+        <entry key="CHINESE" value="35" />
         <entry key="ENGLISH" value="35" />
       </map>
     </option>
