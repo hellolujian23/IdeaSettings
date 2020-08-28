@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="有冲突" />
+      <item value="冲突" />
       <item value="黑名单" />
       <item value="变量" />
       <item value="清空" />
@@ -49,8 +51,6 @@
       <item value="一瞬间" />
       <item value="flash" />
       <item value="限时促销" />
-      <item value="优惠" />
-      <item value="限时优惠" />
     </histories>
     <option name="languageScores">
       <map>
