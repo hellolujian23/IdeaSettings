@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="属于的" />
+      <item value="belonged" />
+      <item value="所属的" />
+      <item value="所属商户" />
+      <item value="所属群" />
+      <item value="所属" />
       <item value="重新渲染" />
       <item value="二进制" />
       <item value="normalize" />
@@ -45,17 +51,11 @@
       <item value="全返" />
       <item value="全勤" />
       <item value="公开课" />
-      <item value="新课上线" />
-      <item value="低价好课" />
-      <item value="在一段时间内" />
-      <item value="限时免费" />
-      <item value="限时" />
-      <item value="一瞬" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="35" />
-        <entry key="ENGLISH" value="36" />
+        <entry key="CHINESE" value="36" />
+        <entry key="ENGLISH" value="37" />
       </map>
     </option>
   </component>
