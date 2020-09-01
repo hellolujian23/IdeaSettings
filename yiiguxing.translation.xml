@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="下级的" />
+      <item value="下层" />
+      <item value="下一层" />
+      <item value="下一级" />
+      <item value="下属" />
+      <item value="下级" />
       <item value="Common" />
       <item value="属于的" />
       <item value="belonged" />
@@ -45,12 +51,6 @@
       <item value="精品小课" />
       <item value="平铺的" />
       <item value="平铺" />
-      <item value="未分类的" />
-      <item value="全勤全返" />
-      <item value="保存排序" />
-      <item value="保存败絮" />
-      <item value="全返" />
-      <item value="全勤" />
     </histories>
     <option name="languageScores">
       <map>
