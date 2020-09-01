@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Common" />
       <item value="属于的" />
       <item value="belonged" />
       <item value="所属的" />
@@ -50,7 +51,6 @@
       <item value="保存败絮" />
       <item value="全返" />
       <item value="全勤" />
-      <item value="公开课" />
     </histories>
     <option name="languageScores">
       <map>
