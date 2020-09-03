@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="剩下" />
+      <item value="剩下的" />
       <item value="异或运算" />
       <item value="异或" />
       <item value="inferior" />
@@ -49,8 +51,6 @@
       <item value="完全自定义" />
       <item value="自定义" />
       <item value="组合" />
-      <item value="需要的" />
-      <item value="提取" />
     </histories>
     <option name="languageScores">
       <map>
