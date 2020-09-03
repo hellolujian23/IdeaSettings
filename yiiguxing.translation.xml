@@ -1,6 +1,20 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="inferior" />
+      <item value="infer" />
+      <item value="高年级" />
+      <item value="低" />
+      <item value="低年级" />
+      <item value="小学的" />
+      <item value="小学" />
+      <item value="senior" />
+      <item value="高中" />
+      <item value="大学" />
+      <item value="父组件" />
+      <item value="子组件" />
+      <item value="super" />
+      <item value="低级的" />
       <item value="包含" />
       <item value="或运算" />
       <item value="交集" />
@@ -37,25 +51,11 @@
       <item value="嵌套" />
       <item value="嵌套的" />
       <item value="加星" />
-      <item value="打码" />
-      <item value="大码" />
-      <item value="加码" />
-      <item value="关联" />
-      <item value="后台" />
-      <item value="受控的" />
-      <item value="控制" />
-      <item value="被管理的" />
-      <item value="需要被控制的" />
-      <item value="可以控制的" />
-      <item value="受控" />
-      <item value="栅格" />
-      <item value="compact" />
-      <item value="榜单" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="36" />
-        <entry key="ENGLISH" value="37" />
+        <entry key="CHINESE" value="39" />
+        <entry key="ENGLISH" value="39" />
       </map>
     </option>
   </component>
