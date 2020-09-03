@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="单独拥有的" />
       <item value="tow" />
       <item value="两个" />
       <item value="2" />
@@ -50,12 +51,11 @@
       <item value="冲突" />
       <item value="黑名单" />
       <item value="变量" />
-      <item value="清空" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="42" />
-        <entry key="ENGLISH" value="42" />
+        <entry key="ENGLISH" value="43" />
       </map>
     </option>
   </component>
