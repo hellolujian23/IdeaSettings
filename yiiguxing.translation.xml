@@ -1,61 +1,61 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="保存排序" />
-      <item value="保存败絮" />
-      <item value="全返" />
-      <item value="全勤" />
-      <item value="全勤全返" />
-      <item value="公开课" />
-      <item value="新课上线" />
-      <item value="低价好课" />
-      <item value="在一段时间内" />
-      <item value="限时免费" />
-      <item value="限时" />
-      <item value="一瞬" />
-      <item value="一瞬间" />
-      <item value="flash" />
-      <item value="限时促销" />
-      <item value="优惠" />
-      <item value="限时优惠" />
-      <item value="免费试学" />
-      <item value="免费" />
-      <item value="自定义内容" />
-      <item value="自定义" />
-      <item value="说明" />
-      <item value="特色" />
-      <item value="特色频道" />
-      <item value="特色筛选" />
-      <item value="featured" />
-      <item value="feature" />
-      <item value="特色的" />
-      <item value="特色筛选项" />
-      <item value="筛选" />
-      <item value="特色标签" />
-      <item value="代码优化" />
-      <item value="传递数据" />
-      <item value="转移数据" />
-      <item value="提醒" />
-      <item value="提示" />
-      <item value="启用" />
-      <item value="层次" />
-      <item value="层次的" />
-      <item value="打标签的" />
-      <item value="系数" />
-      <item value="加权系数" />
-      <item value="加权" />
-      <item value="计算" />
-      <item value="打标" />
-      <item value="pro" />
-      <item value="mini" />
-      <item value="短视频" />
-      <item value="精心选择" />
-      <item value="精品" />
+      <item value="注释" />
+      <item value="副本" />
+      <item value="单独拥有的" />
+      <item value="tow" />
+      <item value="两个" />
+      <item value="2" />
+      <item value="剩下" />
+      <item value="剩下的" />
+      <item value="异或运算" />
+      <item value="异或" />
+      <item value="inferior" />
+      <item value="额外" />
+      <item value="补充" />
+      <item value="基础校验" />
+      <item value="infer" />
+      <item value="高年级" />
+      <item value="低" />
+      <item value="低年级" />
+      <item value="小学的" />
+      <item value="小学" />
+      <item value="senior" />
+      <item value="高中" />
+      <item value="大学" />
+      <item value="父组件" />
+      <item value="子组件" />
+      <item value="super" />
+      <item value="低级的" />
+      <item value="包含" />
+      <item value="或运算" />
+      <item value="交集" />
+      <item value="并集" />
+      <item value="上级的" />
+      <item value="下级的" />
+      <item value="下层" />
+      <item value="下一层" />
+      <item value="下一级" />
+      <item value="下属" />
+      <item value="下级" />
+      <item value="Common" />
+      <item value="属于的" />
+      <item value="belonged" />
+      <item value="所属的" />
+      <item value="所属商户" />
+      <item value="所属群" />
+      <item value="所属" />
+      <item value="重新渲染" />
+      <item value="二进制" />
+      <item value="normalize" />
+      <item value="有冲突" />
+      <item value="冲突" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="33" />
-        <entry key="ENGLISH" value="34" />
+        <entry key="CHINESE" value="42" />
+        <entry key="ENGLISH" value="43" />
       </map>
     </option>
   </component>
