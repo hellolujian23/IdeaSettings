@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="封" />
+      <item value="封禁" />
+      <item value="封号" />
       <item value="下划线" />
       <item value="驼峰格式" />
       <item value="小驼峰" />
@@ -48,9 +51,6 @@
       <item value="属于的" />
       <item value="belonged" />
       <item value="所属的" />
-      <item value="所属商户" />
-      <item value="所属群" />
-      <item value="所属" />
     </histories>
     <option name="languageScores">
       <map>
