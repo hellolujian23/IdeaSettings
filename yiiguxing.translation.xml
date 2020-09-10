@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="我的主页被你访问了" />
+      <item value="被访问者" />
+      <item value="被访问" />
+      <item value="被访问的人" />
+      <item value="访客" />
       <item value="浏览" />
       <item value="查看" />
       <item value="feed" />
@@ -46,11 +51,6 @@
       <item value="或运算" />
       <item value="交集" />
       <item value="并集" />
-      <item value="上级的" />
-      <item value="下级的" />
-      <item value="下层" />
-      <item value="下一层" />
-      <item value="下一级" />
     </histories>
     <option name="languageScores">
       <map>
