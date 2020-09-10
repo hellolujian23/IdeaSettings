@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="浏览" />
+      <item value="查看" />
+      <item value="feed" />
+      <item value="主页封面" />
+      <item value="封面" />
       <item value="用户动态" />
       <item value="封" />
       <item value="封禁" />
@@ -46,16 +51,11 @@
       <item value="下层" />
       <item value="下一层" />
       <item value="下一级" />
-      <item value="下属" />
-      <item value="下级" />
-      <item value="Common" />
-      <item value="属于的" />
-      <item value="belonged" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="43" />
-        <entry key="ENGLISH" value="44" />
+        <entry key="CHINESE" value="45" />
+        <entry key="ENGLISH" value="46" />
       </map>
     </option>
   </component>
