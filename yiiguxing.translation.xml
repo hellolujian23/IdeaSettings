@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="访问时间" />
+      <item value="匿名的" />
+      <item value="匿名" />
+      <item value="总计" />
+      <item value="今日访客数量" />
       <item value="我的主页被你访问了" />
       <item value="被访问者" />
       <item value="被访问" />
@@ -46,11 +51,6 @@
       <item value="父组件" />
       <item value="子组件" />
       <item value="super" />
-      <item value="低级的" />
-      <item value="包含" />
-      <item value="或运算" />
-      <item value="交集" />
-      <item value="并集" />
     </histories>
     <option name="languageScores">
       <map>
