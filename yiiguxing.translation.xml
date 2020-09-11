@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="试卷作业" />
+      <item value="试卷" />
+      <item value="rating" />
+      <item value="rate" />
+      <item value="评价" />
+      <item value="讨论帖" />
+      <item value="帖子" />
+      <item value="发帖" />
+      <item value="作业" />
+      <item value="自定义" />
+      <item value="自定义作业" />
       <item value="访问时间" />
       <item value="匿名的" />
       <item value="匿名" />
@@ -40,22 +51,11 @@
       <item value="补充" />
       <item value="基础校验" />
       <item value="infer" />
-      <item value="高年级" />
-      <item value="低" />
-      <item value="低年级" />
-      <item value="小学的" />
-      <item value="小学" />
-      <item value="senior" />
-      <item value="高中" />
-      <item value="大学" />
-      <item value="父组件" />
-      <item value="子组件" />
-      <item value="super" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="45" />
-        <entry key="ENGLISH" value="46" />
+        <entry key="CHINESE" value="46" />
+        <entry key="ENGLISH" value="47" />
       </map>
     </option>
   </component>
