@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="手动的" />
+      <item value="mannual" />
+      <item value="人工的" />
+      <item value="人工" />
       <item value="动作" />
       <item value="试卷作业" />
       <item value="试卷" />
@@ -47,15 +51,11 @@
       <item value="剩下的" />
       <item value="异或运算" />
       <item value="异或" />
-      <item value="inferior" />
-      <item value="额外" />
-      <item value="补充" />
-      <item value="基础校验" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="46" />
-        <entry key="ENGLISH" value="47" />
+        <entry key="CHINESE" value="47" />
+        <entry key="ENGLISH" value="48" />
       </map>
     </option>
   </component>
