@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="点赞" />
       <item value="Invalid" />
       <item value="屏蔽" />
       <item value="有效得分" />
@@ -8,7 +9,6 @@
       <item value="有效" />
       <item value="有效的" />
       <item value="点赞时间" />
-      <item value="点赞" />
       <item value="逻辑运算" />
       <item value="产生" />
       <item value="手动的" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="48" />
-        <entry key="ENGLISH" value="48" />
+        <entry key="ENGLISH" value="49" />
       </map>
     </option>
   </component>
