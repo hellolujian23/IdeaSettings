@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="mod" />
+      <item value="分表的" />
+      <item value="多个表" />
+      <item value="分表" />
       <item value="asynchronous" />
       <item value="必须的" />
       <item value="签名" />
@@ -47,15 +51,11 @@
       <item value="封面" />
       <item value="用户动态" />
       <item value="封" />
-      <item value="封禁" />
-      <item value="封号" />
-      <item value="下划线" />
-      <item value="驼峰格式" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="49" />
-        <entry key="ENGLISH" value="49" />
+        <entry key="CHINESE" value="50" />
+        <entry key="ENGLISH" value="50" />
       </map>
     </option>
   </component>
