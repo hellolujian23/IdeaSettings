@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="横线" />
+      <item value="-" />
+      <item value="横杠" />
+      <item value="冒号" />
       <item value="组件" />
       <item value="排除的" />
       <item value="排除" />
@@ -47,15 +51,11 @@
       <item value="我的主页被你访问了" />
       <item value="被访问者" />
       <item value="被访问" />
-      <item value="被访问的人" />
-      <item value="访客" />
-      <item value="浏览" />
-      <item value="查看" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="50" />
-        <entry key="ENGLISH" value="51" />
+        <entry key="CHINESE" value="51" />
+        <entry key="ENGLISH" value="52" />
       </map>
     </option>
   </component>
