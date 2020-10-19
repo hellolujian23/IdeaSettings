@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="增删改查" />
+      <item value="大写" />
       <item value="横线" />
       <item value="-" />
       <item value="横杠" />
@@ -49,8 +51,6 @@
       <item value="总计" />
       <item value="今日访客数量" />
       <item value="我的主页被你访问了" />
-      <item value="被访问者" />
-      <item value="被访问" />
     </histories>
     <option name="languageScores">
       <map>
