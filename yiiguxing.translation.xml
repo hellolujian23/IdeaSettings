@@ -1,10 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="积分商城" />
-      <item value="用户积分" />
-      <item value="积分" />
+      <item value="兑换积分" />
+      <item value="积分兑换" />
       <item value="兑换" />
+      <item value="用户积分" />
+      <item value="发放优惠券" />
+      <item value="发放" />
+      <item value="发放积分" />
+      <item value="积分商城" />
+      <item value="积分" />
       <item value="疫情" />
       <item value="增删改查" />
       <item value="大写" />
@@ -46,11 +51,6 @@
       <item value="评价" />
       <item value="讨论帖" />
       <item value="帖子" />
-      <item value="发帖" />
-      <item value="作业" />
-      <item value="自定义" />
-      <item value="自定义作业" />
-      <item value="访问时间" />
     </histories>
     <option name="languageScores">
       <map>
