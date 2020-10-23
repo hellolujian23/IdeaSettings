@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="积分商城" />
+      <item value="用户积分" />
+      <item value="积分" />
       <item value="兑换" />
       <item value="疫情" />
       <item value="增删改查" />
@@ -48,9 +51,6 @@
       <item value="自定义" />
       <item value="自定义作业" />
       <item value="访问时间" />
-      <item value="匿名的" />
-      <item value="匿名" />
-      <item value="总计" />
     </histories>
     <option name="languageScores">
       <map>
