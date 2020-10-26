@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="使用场景" />
+      <item value="使用的场景" />
+      <item value="场景" />
       <item value="限制" />
       <item value="二次确认" />
       <item value="兑换积分" />
@@ -48,9 +51,6 @@
       <item value="动作" />
       <item value="试卷作业" />
       <item value="试卷" />
-      <item value="rating" />
-      <item value="rate" />
-      <item value="评价" />
     </histories>
     <option name="languageScores">
       <map>
