@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="发放优惠券" />
+      <item value="发放" />
       <item value="使用场景" />
       <item value="使用的场景" />
       <item value="场景" />
@@ -10,8 +12,6 @@
       <item value="积分兑换" />
       <item value="兑换" />
       <item value="用户积分" />
-      <item value="发放优惠券" />
-      <item value="发放" />
       <item value="发放积分" />
       <item value="积分商城" />
       <item value="积分" />
