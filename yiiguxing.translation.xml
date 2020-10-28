@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="提醒" />
       <item value="包括自身" />
       <item value="自身" />
       <item value="发送用户" />
@@ -50,7 +51,6 @@
       <item value="产生" />
       <item value="手动的" />
       <item value="mannual" />
-      <item value="人工的" />
     </histories>
     <option name="languageScores">
       <map>
