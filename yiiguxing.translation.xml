@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="上架" />
+      <item value="下架" />
+      <item value="商品下架" />
       <item value="自定义商品" />
       <item value="自定义" />
       <item value="提醒" />
@@ -48,9 +51,6 @@
       <item value="有意义的" />
       <item value="有效" />
       <item value="有效的" />
-      <item value="点赞时间" />
-      <item value="逻辑运算" />
-      <item value="产生" />
     </histories>
     <option name="languageScores">
       <map>
