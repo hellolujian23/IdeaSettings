@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="缓存的" />
+      <item value="需要缓存" />
       <item value="顺序" />
       <item value=" 模块" />
       <item value="自定义配置" />
@@ -49,8 +51,6 @@
       <item value="多个表" />
       <item value="分表" />
       <item value="asynchronous" />
-      <item value="必须的" />
-      <item value="签名" />
     </histories>
     <option name="languageScores">
       <map>
