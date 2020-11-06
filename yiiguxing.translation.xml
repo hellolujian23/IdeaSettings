@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="新增的" />
+      <item value="增加的" />
       <item value="缓存的" />
       <item value="需要缓存" />
       <item value="顺序" />
@@ -49,8 +51,6 @@
       <item value="shard" />
       <item value="分表的" />
       <item value="多个表" />
-      <item value="分表" />
-      <item value="asynchronous" />
     </histories>
     <option name="languageScores">
       <map>
