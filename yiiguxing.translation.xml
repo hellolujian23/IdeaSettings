@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="模糊查询" />
+      <item value="模糊" />
       <item value="新增的" />
       <item value="增加的" />
       <item value="缓存的" />
@@ -49,8 +51,6 @@
       <item value="mod" />
       <item value="sharding" />
       <item value="shard" />
-      <item value="分表的" />
-      <item value="多个表" />
     </histories>
     <option name="languageScores">
       <map>
