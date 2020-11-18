@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="推荐语" />
+      <item value="remark" />
+      <item value="推荐" />
       <item value="运营设置" />
       <item value="设置" />
       <item value="实例" />
@@ -48,14 +51,11 @@
       <item value="积分商城" />
       <item value="积分" />
       <item value="疫情" />
-      <item value="增删改查" />
-      <item value="大写" />
-      <item value="横线" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="53" />
-        <entry key="ENGLISH" value="54" />
+        <entry key="CHINESE" value="54" />
+        <entry key="ENGLISH" value="55" />
       </map>
     </option>
   </component>
