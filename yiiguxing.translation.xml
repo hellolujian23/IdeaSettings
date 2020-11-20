@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="点赞" />
       <item value="查看" />
       <item value="浏览" />
       <item value="我的关注" />
@@ -50,7 +51,6 @@
       <item value="使用的场景" />
       <item value="场景" />
       <item value="限制" />
-      <item value="二次确认" />
     </histories>
     <option name="languageScores">
       <map>
