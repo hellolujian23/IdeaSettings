@@ -8,9 +8,9 @@
     <mask>*.pom</mask>
     <mask>4428</mask>
     <mask>*.html</mask>
-    <mask>*.java</mask>
     <mask>*.properties</mask>
     <mask>*.xml</mask>
     <mask>*.js</mask>
+    <mask>*.java</mask>
   </component>
 </application>
