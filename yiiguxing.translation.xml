@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="途径" />
       <item value="转发" />
       <item value="check" />
       <item value="个人" />
@@ -50,7 +51,6 @@
       <item value="自定义商品" />
       <item value="自定义" />
       <item value="提醒" />
-      <item value="包括自身" />
     </histories>
     <option name="languageScores">
       <map>
