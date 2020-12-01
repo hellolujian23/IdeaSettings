@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="审核" />
+      <item value="先审后发" />
+      <item value="先发后审" />
+      <item value="合法的" />
       <item value="组装" />
       <item value="模型" />
       <item value="模式" />
@@ -47,10 +51,6 @@
       <item value="自定义配置" />
       <item value="正整数" />
       <item value="整数" />
-      <item value="walletmallcodeedit" />
-      <item value="核销" />
-      <item value="上架" />
-      <item value="下架" />
     </histories>
     <option name="languageScores">
       <map>
