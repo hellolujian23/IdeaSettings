@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="invokation" />
+      <item value="invoke" />
       <item value="接口" />
       <item value="个人" />
       <item value="单个" />
@@ -49,12 +51,10 @@
       <item value="新增的" />
       <item value="增加的" />
       <item value="缓存的" />
-      <item value="需要缓存" />
-      <item value="顺序" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="54" />
+        <entry key="CHINESE" value="55" />
         <entry key="ENGLISH" value="55" />
       </map>
     </option>
