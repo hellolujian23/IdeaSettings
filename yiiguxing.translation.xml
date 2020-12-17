@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="recommend" />
+      <item value="推荐" />
       <item value="高" />
       <item value="搞" />
       <item value="宽" />
@@ -42,7 +44,6 @@
       <item value="发微博" />
       <item value="推荐的" />
       <item value="的" />
-      <item value="推荐" />
       <item value="推荐语" />
       <item value="remark" />
       <item value="运营设置" />
@@ -50,11 +51,10 @@
       <item value="实例" />
       <item value="relationed" />
       <item value="relation" />
-      <item value="关联的" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="55" />
+        <entry key="CHINESE" value="56" />
         <entry key="ENGLISH" value="56" />
       </map>
     </option>
