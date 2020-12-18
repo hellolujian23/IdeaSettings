@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="更好的" />
+      <item value="优化" />
       <item value="朋友圈" />
       <item value="包围圈" />
       <item value="圈子" />
@@ -49,8 +51,6 @@
       <item value="的" />
       <item value="推荐语" />
       <item value="remark" />
-      <item value="运营设置" />
-      <item value="设置" />
     </histories>
     <option name="languageScores">
       <map>
