@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="assets" />
       <item value="dist" />
       <item value="electron" />
       <item value="更好的" />
@@ -50,7 +51,6 @@
       <item value="剩余次数" />
       <item value="发微博" />
       <item value="推荐的" />
-      <item value="的" />
     </histories>
     <option name="languageScores">
       <map>
