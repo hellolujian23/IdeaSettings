@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="升级" />
+      <item value="版本" />
+      <item value="版本升级" />
       <item value="jeecg" />
       <item value="资产" />
       <item value="assets" />
@@ -48,14 +51,11 @@
       <item value="已经使用了" />
       <item value="点赞" />
       <item value="查看" />
-      <item value="浏览" />
-      <item value="我的关注" />
-      <item value="文案" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="59" />
-        <entry key="ENGLISH" value="59" />
+        <entry key="ENGLISH" value="60" />
       </map>
     </option>
   </component>
