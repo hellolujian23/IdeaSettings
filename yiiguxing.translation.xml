@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="newly" />
+      <item value="newlky" />
+      <item value="新添加的" />
+      <item value="最近更新的" />
+      <item value="最近更新" />
+      <item value="过期" />
+      <item value="过期时间" />
       <item value="升级" />
       <item value="版本" />
       <item value="版本升级" />
@@ -44,17 +51,10 @@
       <item value="途径" />
       <item value="check" />
       <item value="学员" />
-      <item value="精度" />
-      <item value="准确度" />
-      <item value="白名单" />
-      <item value="使用了" />
-      <item value="已经使用了" />
-      <item value="点赞" />
-      <item value="查看" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="59" />
+        <entry key="CHINESE" value="60" />
         <entry key="ENGLISH" value="60" />
       </map>
     </option>
