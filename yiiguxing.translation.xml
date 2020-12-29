@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="剩余有效的" />
+      <item value="有效的" />
+      <item value="有效的天数" />
+      <item value="剩余的天数" />
+      <item value="剩余天数" />
       <item value="newly" />
       <item value="newlky" />
       <item value="新添加的" />
@@ -46,16 +51,11 @@
       <item value="组装" />
       <item value="模型" />
       <item value="模式" />
-      <item value="来源" />
-      <item value="转发" />
-      <item value="途径" />
-      <item value="check" />
-      <item value="学员" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="60" />
-        <entry key="ENGLISH" value="60" />
+        <entry key="ENGLISH" value="62" />
       </map>
     </option>
   </component>
