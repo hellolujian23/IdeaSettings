@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="最近进群" />
+      <item value="最近报名" />
+      <item value="最近学习" />
       <item value="剩余有效的" />
       <item value="有效的" />
       <item value="有效的天数" />
@@ -48,9 +51,6 @@
       <item value="先审后发" />
       <item value="先发后审" />
       <item value="合法的" />
-      <item value="组装" />
-      <item value="模型" />
-      <item value="模式" />
     </histories>
     <option name="languageScores">
       <map>
