@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="我的群" />
       <item value="最近进群" />
       <item value="最近报名" />
       <item value="最近学习" />
@@ -50,7 +51,6 @@
       <item value="审核" />
       <item value="先审后发" />
       <item value="先发后审" />
-      <item value="合法的" />
     </histories>
     <option name="languageScores">
       <map>
