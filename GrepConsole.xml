@@ -10,6 +10,27 @@
                 <option name="grepExpressionItems">
                   <list>
                     <GrepExpressionItem>
+                      <option name="continueMatching" value="true" />
+                      <option name="grepExpression" value=".RemoteConfigLongPollService] [Apollo-RemoteConfigLongPollService-1] [] [] [] Apollo.ConfigService RemoteConfigLongPollService.pollNotification! StatusCode: 304, url: http://192.167.38.167:8080/notifications/v2?cluster=qa1&amp;appId=soa-content&amp;ip=192.168.178.43&amp;notifications=%5B%7B%22namespaceName%22%3A%22CC.Common%22%2C%22notificationId%22%3A9513%7D%2C%7B%22namespaceName%22%3A%22CC.RedisKeyInfo%22%2C%22notificationId%22%3A9304%7D%2C%7B%22namespaceName%22%3A%22CC.MQInfo%22%2C%22notificationId%22%3A9200%7D%2C%7B%22namespaceName%22%3A%22application%22%2C%22notificationId%22%3A9283%7D%2C%7B%22namespaceName%22%3A%22CC.RedisInfo%22%2C%22notificationId%22%3A9367%7D%2C%7B%22namespaceName%22%3A%22CC.DBInfo%22%2C%22notificationId%22%3A9508%7D%5D&#10;[DEBUG] [2021-01-04T16:45:19,034] [com.hujiang.framework.apollo.internals.RemoteConfigLongPollService] [Apollo-RemoteConfigLongPollService-1] [] [] [] Apollo.ConfigService RemoteConfigLongPollService.pollNotification! StatusCode: 200, url: http://192.167.172.135:8080/notifications/v2?cluster=qa1&amp;appId=soa-content&amp;ip=192.168.178.43&amp;notifications=%5B%7B%22namespaceName%22%3A%22CC.Common%22%2C%22notificationId%22%3A9513%7D%2C%7B%22namespaceName%22%3A%22CC.RedisKeyInfo%22%2C%22notificationId%22%3A9304%7D%2C%7B%22namespaceName%22%3A%22CC.MQInfo%22%2C%22notificationId%22%3A9200%7D%2C%7B%22namespaceName%22%3A%22application%22%2C%22notificationId%22%3A9283%7D%2C%7B%22namespaceName%22%3A%22CC.RedisInfo%22%2C%22notificationId%22%3A9367%7D%2C%7B%22namespaceName%22%3A%22CC.Domain%22%2C%22notificationId%22%3A-1%7D%2C%7B%22namespaceName%22%3A%22CC.DBInfo%22%2C%22notificationId%22%3A9508%7D%5D&#10;[DEBUG] [2021-01-04T16:45:19,034] [com.hujiang.framework.apollo.internals.RemoteConfigLongPollService] [Apollo-RemoteConfigLongPollService-1] [] [] [] Apollo.ConfigService RemoteConfigLongPollService.pollNotification!  Result:[ApolloConfigNotification{namespaceName='CC.Domain', notificationId=9495}]&#10;[DEBUG] [2021-01-04T16:45:19,034] [com.hujiang.framework.apollo.internals.RemoteConfigRepository] [Apollo-RemoteConfigRepository-1] [] [] [] Apollo.ConfigServiceRemoteConfigRepository sync&#10;[DEBUG] [2021-01-04T16:45:19,034] [com.hujiang.framework.apollo.internals.RemoteConfigRepository] [Apollo-RemoteConfigRepository-1] [] [] [] Apollo.Client.ConfigMeta soa-content_qa1_CC.Domain&#10;[DEBUG] [2021-01-04T16:45:19,034] [com.hujiang.framework.apollo.internals.RemoteConfigRepository] [Apollo-RemoteConfigRepository-1] [] [] [] Apollo.ConfigServiceRemoteConfigRepository queryConfig Retry:0 Url:http://192.167.172.135:8080/configs/soa-content/qa1/CC.Domain?ip=192.168.178.43&amp;releaseKey=20171109174108-ae8110ebf4bb12e1%2B20201216184453-fd03c33668d1b523&#10;[DEBUG] [2021-01-04T16:45:19,043] [com.hujiang.framework.apollo.internals.RemoteConfigRepository] [Apollo-RemoteConfigRepository-1] [] [] [] Config server responds with 304 HTTP status code.&#10;[DEBUG] [2021-01-04T16:45:19,043] [com.hujiang.framework.apollo.internals.RemoteConfigRepository]" />
+                      <option name="highlightOnlyMatchingText" value="true" />
+                      <option name="operationOnMatch" value="CONTINUE_MATCHING" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-7673479" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
                       <option name="grepExpression" value=".*FATAL.*" />
                       <option name="style">
                         <GrepStyle>
@@ -111,5 +132,6 @@
         </Profile>
       </list>
     </option>
+    <option name="version" value="1" />
   </component>
 </application>
