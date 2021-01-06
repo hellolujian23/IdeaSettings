@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="抑郁" />
+      <item value="忧郁" />
+      <item value="Insomnia" />
       <item value="Provisional" />
       <item value="排除" />
       <item value="到课率" />
@@ -48,14 +51,11 @@
       <item value="invokation" />
       <item value="invoke" />
       <item value="接口" />
-      <item value="个人" />
-      <item value="单个" />
-      <item value="全量" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="61" />
-        <entry key="ENGLISH" value="62" />
+        <entry key="CHINESE" value="62" />
+        <entry key="ENGLISH" value="63" />
       </map>
     </option>
   </component>
