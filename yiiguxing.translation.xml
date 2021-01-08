@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="备注" />
       <item value="Chocolatey" />
       <item value="Conclusion" />
       <item value="Recursive " />
@@ -50,12 +51,11 @@
       <item value="推荐" />
       <item value="高" />
       <item value="搞" />
-      <item value="宽" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="63" />
-        <entry key="ENGLISH" value="63" />
+        <entry key="ENGLISH" value="64" />
       </map>
     </option>
   </component>
