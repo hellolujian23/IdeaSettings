@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="未过滤的" />
       <item value="备注" />
       <item value="Chocolatey" />
       <item value="Conclusion" />
@@ -50,7 +51,6 @@
       <item value="recommend" />
       <item value="推荐" />
       <item value="高" />
-      <item value="搞" />
     </histories>
     <option name="languageScores">
       <map>
