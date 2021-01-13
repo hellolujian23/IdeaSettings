@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="连续上榜" />
+      <item value="连续7天" />
+      <item value="连续" />
+      <item value="一直" />
+      <item value="一直的" />
+      <item value="连续的" />
+      <item value="霸占" />
+      <item value="霸榜" />
       <item value="进入" />
       <item value="重新进入" />
       <item value="重新" />
@@ -43,14 +51,6 @@
       <item value="jeecg" />
       <item value="资产" />
       <item value="assets" />
-      <item value="脚本" />
-      <item value="dist" />
-      <item value="electron" />
-      <item value="更好的" />
-      <item value="优化" />
-      <item value="朋友圈" />
-      <item value="包围圈" />
-      <item value="圈子" />
     </histories>
     <option name="languageScores">
       <map>
