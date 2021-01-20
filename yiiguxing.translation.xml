@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="创建者" />
       <item value="版本更新" />
       <item value="版本跟你像你" />
       <item value="更新版本" />
@@ -50,7 +51,6 @@
       <item value="过期" />
       <item value="过期时间" />
       <item value="升级" />
-      <item value="版本" />
     </histories>
     <option name="languageScores">
       <map>
