@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="不是" />
       <item value="备注名称" />
       <item value="备注" />
       <item value="abled" />
@@ -50,7 +51,6 @@
       <item value="剩余有效的" />
       <item value="有效的" />
       <item value="有效的天数" />
-      <item value="剩余的天数" />
     </histories>
     <option name="languageScores">
       <map>
