@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="备注名称" />
+      <item value="备注" />
       <item value="abled" />
       <item value="可以添加积分的" />
       <item value="可以的" />
@@ -26,7 +28,6 @@
       <item value="重新进入" />
       <item value="重新" />
       <item value="未过滤的" />
-      <item value="备注" />
       <item value="Chocolatey" />
       <item value="Conclusion" />
       <item value="Recursive " />
@@ -50,12 +51,11 @@
       <item value="有效的" />
       <item value="有效的天数" />
       <item value="剩余的天数" />
-      <item value="剩余天数" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="65" />
-        <entry key="ENGLISH" value="65" />
+        <entry key="ENGLISH" value="66" />
       </map>
     </option>
   </component>
