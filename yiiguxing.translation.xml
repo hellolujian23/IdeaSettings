@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="time-span" />
+      <item value="threshold" />
       <item value="sentinel" />
       <item value="提醒" />
       <item value="handshake" />
@@ -49,8 +51,6 @@
       <item value="到课" />
       <item value="我的群" />
       <item value="最近进群" />
-      <item value="最近报名" />
-      <item value="最近学习" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,7 +65,6 @@
     <option name="ignoreRegExp" value="" />
     <option name="phoneticFontFamily" value="Fira Code Medium" />
     <option name="primaryFontFamily" value="Droid Sans Mono" />
-    <option name="translator" value="ai.youdao" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="5e6eece365cdb5a0" />
