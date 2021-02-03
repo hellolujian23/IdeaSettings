@@ -63,6 +63,8 @@
   </component>
   <component name="Settings">
     <option name="ignoreRegExp" value="" />
+    <option name="phoneticFontFamily" value="Fira Code Medium" />
+    <option name="primaryFontFamily" value="Droid Sans Mono" />
     <option name="translator" value="ai.youdao" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
