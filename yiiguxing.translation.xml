@@ -1,65 +1,75 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="time-span" />
+      <item value="threshold" />
+      <item value="sentinel" />
+      <item value="提醒" />
+      <item value="handshake" />
+      <item value="不是" />
+      <item value="备注名称" />
+      <item value="备注" />
+      <item value="abled" />
+      <item value="可以添加积分的" />
+      <item value="可以的" />
+      <item value="enable" />
+      <item value="入口enable" />
+      <item value="入口" />
+      <item value="入口icon" />
+      <item value="入口图" />
+      <item value="创建者" />
+      <item value="版本更新" />
+      <item value="版本跟你像你" />
+      <item value="更新版本" />
+      <item value="更新" />
+      <item value="连续上榜" />
+      <item value="连续7天" />
+      <item value="连续" />
+      <item value="一直" />
+      <item value="一直的" />
+      <item value="连续的" />
+      <item value="霸占" />
+      <item value="霸榜" />
+      <item value="进入" />
+      <item value="重新进入" />
+      <item value="重新" />
+      <item value="未过滤的" />
+      <item value="Chocolatey" />
+      <item value="Conclusion" />
+      <item value="Recursive " />
+      <item value="rarely " />
+      <item value="assigned " />
+      <item value="Allow the autocomplete to show automatically as you type" />
+      <item value="Summon" />
+      <item value="Summon the autocomplete dropdown by pressing Control+Space" />
+      <item value="抑郁" />
+      <item value="忧郁" />
+      <item value="Insomnia" />
+      <item value="Provisional" />
       <item value="排除" />
       <item value="到课率" />
       <item value="到课" />
       <item value="我的群" />
       <item value="最近进群" />
-      <item value="最近报名" />
-      <item value="最近学习" />
-      <item value="剩余有效的" />
-      <item value="有效的" />
-      <item value="有效的天数" />
-      <item value="剩余的天数" />
-      <item value="剩余天数" />
-      <item value="newly" />
-      <item value="newlky" />
-      <item value="新添加的" />
-      <item value="最近更新的" />
-      <item value="最近更新" />
-      <item value="过期" />
-      <item value="过期时间" />
-      <item value="升级" />
-      <item value="版本" />
-      <item value="版本升级" />
-      <item value="jeecg" />
-      <item value="资产" />
-      <item value="assets" />
-      <item value="脚本" />
-      <item value="dist" />
-      <item value="electron" />
-      <item value="更好的" />
-      <item value="优化" />
-      <item value="朋友圈" />
-      <item value="包围圈" />
-      <item value="圈子" />
-      <item value="recommend" />
-      <item value="推荐" />
-      <item value="高" />
-      <item value="搞" />
-      <item value="宽" />
-      <item value="joint" />
-      <item value="Retrieves" />
-      <item value="primitive" />
-      <item value="primitive\" />
-      <item value="primitives" />
-      <item value="invokation" />
-      <item value="invoke" />
-      <item value="接口" />
-      <item value="个人" />
-      <item value="单个" />
-      <item value="全量" />
-      <item value="不合法的" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="60" />
-        <entry key="ENGLISH" value="62" />
+        <entry key="CHINESE" value="67" />
+        <entry key="ENGLISH" value="67" />
+        <entry key="CHINESE_TRADITIONAL" value="1" />
+        <entry key="AMHARIC" value="1" />
       </map>
     </option>
   </component>
   <component name="Settings">
     <option name="ignoreRegExp" value="" />
+    <option name="phoneticFontFamily" value="Fira Code Medium" />
+    <option name="primaryFontFamily" value="Droid Sans Mono" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="5e6eece365cdb5a0" />
+        <option name="appKeyConfigured" value="true" />
+      </youdao-translate>
+    </option>
   </component>
 </application>
