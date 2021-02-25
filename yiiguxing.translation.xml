@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="排序" />
+      <item value="次序" />
+      <item value="asc" />
+      <item value="顺序" />
+      <item value="赚" />
+      <item value="分销比例" />
+      <item value="比例" />
       <item value="Profit" />
       <item value="佣金" />
       <item value="佣金、" />
@@ -44,18 +51,11 @@
       <item value="Chocolatey" />
       <item value="Conclusion" />
       <item value="Recursive " />
-      <item value="rarely " />
-      <item value="assigned " />
-      <item value="Allow the autocomplete to show automatically as you type" />
-      <item value="Summon" />
-      <item value="Summon the autocomplete dropdown by pressing Control+Space" />
-      <item value="抑郁" />
-      <item value="忧郁" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="68" />
-        <entry key="ENGLISH" value="68" />
+        <entry key="CHINESE" value="69" />
+        <entry key="ENGLISH" value="70" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AMHARIC" value="1" />
       </map>
