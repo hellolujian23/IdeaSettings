@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="筛选项" />
+      <item value="筛选" />
       <item value="推荐" />
       <item value="auditing" />
       <item value="审核中" />
@@ -49,8 +51,6 @@
       <item value="sentinel" />
       <item value="提醒" />
       <item value="handshake" />
-      <item value="不是" />
-      <item value="备注名称" />
     </histories>
     <option name="languageScores">
       <map>
