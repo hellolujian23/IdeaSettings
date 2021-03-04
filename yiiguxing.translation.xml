@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="排除的" />
+      <item value="失效的" />
+      <item value="即将的" />
       <item value="申请" />
       <item value="筛选项" />
       <item value="筛选" />
@@ -48,9 +51,6 @@
       <item value="分销" />
       <item value="预览" />
       <item value="time-span" />
-      <item value="threshold" />
-      <item value="sentinel" />
-      <item value="提醒" />
     </histories>
     <option name="languageScores">
       <map>
