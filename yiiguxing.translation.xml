@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="重新审核" />
+      <item value="重申" />
       <item value="排除的" />
       <item value="失效的" />
       <item value="即将的" />
@@ -49,8 +51,6 @@
       <item value="佣金比例" />
       <item value="分销平台" />
       <item value="分销" />
-      <item value="预览" />
-      <item value="time-span" />
     </histories>
     <option name="languageScores">
       <map>
