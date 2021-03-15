@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="上架状态" />
+      <item value="上架" />
       <item value="拉黑的" />
       <item value="被拉黑" />
       <item value="拉黑" />
@@ -49,8 +51,6 @@
       <item value="分销比例" />
       <item value="比例" />
       <item value="Profit" />
-      <item value="佣金" />
-      <item value="佣金、" />
     </histories>
     <option name="languageScores">
       <map>
