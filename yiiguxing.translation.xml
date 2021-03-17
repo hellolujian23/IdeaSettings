@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="加入" />
+      <item value="参与" />
+      <item value="参与平台分销" />
+      <item value="参与分销" />
       <item value="已审核" />
       <item value="上架状态" />
       <item value="上架" />
@@ -47,10 +51,6 @@
       <item value="排序" />
       <item value="次序" />
       <item value="asc" />
-      <item value="顺序" />
-      <item value="赚" />
-      <item value="分销比例" />
-      <item value="比例" />
     </histories>
     <option name="languageScores">
       <map>
