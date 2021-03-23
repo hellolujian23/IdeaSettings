@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ellipsis" />
       <item value="在博物馆展览" />
       <item value="加入" />
       <item value="参与" />
@@ -50,11 +51,10 @@
       <item value="弹框" />
       <item value="弹窗提醒" />
       <item value="排序" />
-      <item value="次序" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="70" />
+        <entry key="CHINESE" value="71" />
         <entry key="ENGLISH" value="71" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AMHARIC" value="1" />
