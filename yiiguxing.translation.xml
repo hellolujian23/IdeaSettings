@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="不能的" />
+      <item value="able" />
+      <item value="enabled" />
+      <item value="没有能力的" />
+      <item value="不可以的" />
+      <item value="可以的" />
       <item value="ellipsis" />
       <item value="在博物馆展览" />
       <item value="加入" />
@@ -45,17 +51,11 @@
       <item value="领取" />
       <item value="认领" />
       <item value="渠道商" />
-      <item value="推广人" />
-      <item value="推广" />
-      <item value="弹窗" />
-      <item value="弹框" />
-      <item value="弹窗提醒" />
-      <item value="排序" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="71" />
-        <entry key="ENGLISH" value="71" />
+        <entry key="CHINESE" value="73" />
+        <entry key="ENGLISH" value="74" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AMHARIC" value="1" />
       </map>
