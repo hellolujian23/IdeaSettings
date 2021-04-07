@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="跳转url" />
+      <item value="跳转" />
+      <item value="redirct" />
+      <item value="redir" />
+      <item value="跳转链接" />
       <item value="站点" />
       <item value="运营人员" />
       <item value="运营" />
@@ -46,16 +51,11 @@
       <item value="公众" />
       <item value="从何" />
       <item value="从何了解" />
-      <item value="从何知道" />
-      <item value="获取途径" />
-      <item value="途径" />
-      <item value="渠道" />
-      <item value="渠道种类" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="73" />
-        <entry key="ENGLISH" value="74" />
+        <entry key="CHINESE" value="74" />
+        <entry key="ENGLISH" value="75" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AMHARIC" value="1" />
       </map>
