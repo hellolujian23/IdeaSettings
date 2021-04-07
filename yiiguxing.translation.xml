@@ -1,14 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="运营" />
+      <item value="运营人员" />
+      <item value="针对" />
       <item value="跳转url" />
       <item value="跳转" />
       <item value="redirct" />
       <item value="redir" />
       <item value="跳转链接" />
       <item value="站点" />
-      <item value="运营人员" />
-      <item value="运营" />
       <item value="运营群" />
       <item value="成为" />
       <item value="不能的" />
@@ -50,7 +51,6 @@
       <item value="微信公众号" />
       <item value="公众" />
       <item value="从何" />
-      <item value="从何了解" />
     </histories>
     <option name="languageScores">
       <map>
