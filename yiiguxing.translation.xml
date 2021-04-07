@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="控制弹框" />
       <item value="运营" />
       <item value="运营人员" />
       <item value="针对" />
@@ -50,7 +51,6 @@
       <item value="公众号" />
       <item value="微信公众号" />
       <item value="公众" />
-      <item value="从何" />
     </histories>
     <option name="languageScores">
       <map>
