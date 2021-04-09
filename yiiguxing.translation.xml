@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="不在之内的" />
+      <item value="不在什么之内的" />
       <item value="控制弹框" />
       <item value="运营" />
       <item value="运营人员" />
@@ -49,8 +51,6 @@
       <item value="个人微信" />
       <item value="微信个人" />
       <item value="公众号" />
-      <item value="微信公众号" />
-      <item value="公众" />
     </histories>
     <option name="languageScores">
       <map>
