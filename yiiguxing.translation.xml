@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="特性" />
+      <item value="属性" />
+      <item value="业务属性" />
       <item value="joint" />
       <item value="联报专题" />
       <item value="联报" />
@@ -48,14 +51,11 @@
       <item value="参与" />
       <item value="参与平台分销" />
       <item value="参与分销" />
-      <item value="已审核" />
-      <item value="上架状态" />
-      <item value="上架" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="77" />
-        <entry key="ENGLISH" value="77" />
+        <entry key="ENGLISH" value="78" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AMHARIC" value="1" />
       </map>
