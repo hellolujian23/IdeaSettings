@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sandbox" />
       <item value="日志记录" />
       <item value="记录日志" />
       <item value="订单数量" />
@@ -50,11 +51,10 @@
       <item value="可以的" />
       <item value="ellipsis" />
       <item value="在博物馆展览" />
-      <item value="加入" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="77" />
+        <entry key="CHINESE" value="78" />
         <entry key="ENGLISH" value="78" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AMHARIC" value="1" />
