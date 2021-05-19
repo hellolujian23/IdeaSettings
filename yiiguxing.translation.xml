@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="scope" />
+      <item value="scope‘" />
       <item value="canary" />
       <item value="can" />
       <item value="加星的" />
@@ -49,8 +51,6 @@
       <item value="不能的" />
       <item value="able" />
       <item value="enabled" />
-      <item value="没有能力的" />
-      <item value="不可以的" />
     </histories>
     <option name="languageScores">
       <map>
