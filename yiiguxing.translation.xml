@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="canary" />
+      <item value="can" />
       <item value="加星的" />
       <item value="sandbox" />
       <item value="日志记录" />
@@ -49,12 +51,10 @@
       <item value="enabled" />
       <item value="没有能力的" />
       <item value="不可以的" />
-      <item value="可以的" />
-      <item value="ellipsis" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="78" />
+        <entry key="CHINESE" value="80" />
         <entry key="ENGLISH" value="79" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AMHARIC" value="1" />
