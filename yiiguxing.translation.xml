@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="封面" />
+      <item value="封面图" />
       <item value="scope" />
       <item value="scope‘" />
       <item value="canary" />
@@ -49,13 +51,11 @@
       <item value="运营群" />
       <item value="成为" />
       <item value="不能的" />
-      <item value="able" />
-      <item value="enabled" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="80" />
-        <entry key="ENGLISH" value="79" />
+        <entry key="ENGLISH" value="80" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AMHARIC" value="1" />
       </map>
