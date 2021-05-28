@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="刷新" />
       <item value="忧郁" />
       <item value="忧郁的" />
       <item value="操作时间" />
@@ -50,7 +51,6 @@
       <item value="跳转url" />
       <item value="跳转" />
       <item value="redirct" />
-      <item value="redir" />
     </histories>
     <option name="languageScores">
       <map>
