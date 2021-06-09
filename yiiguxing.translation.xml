@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="资讯" />
+      <item value="咨询" />
       <item value="可以拖拽的" />
       <item value="拖拽的" />
       <item value="拖拽" />
@@ -49,8 +51,6 @@
       <item value="使用场景" />
       <item value="不在之内的" />
       <item value="不在什么之内的" />
-      <item value="控制弹框" />
-      <item value="运营" />
     </histories>
     <option name="languageScores">
       <map>
