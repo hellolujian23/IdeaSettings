@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="咨询者" />
+      <item value="咨询老师" />
+      <item value="咨询用户" />
+      <item value="咨询顾问" />
       <item value="简介" />
       <item value="资讯" />
       <item value="咨询" />
@@ -47,10 +51,6 @@
       <item value="浏览数量" />
       <item value="liulan" />
       <item value="草稿" />
-      <item value="展示" />
-      <item value="样式" />
-      <item value="使用场景" />
-      <item value="不在之内的" />
     </histories>
     <option name="languageScores">
       <map>
