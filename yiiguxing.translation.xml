@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="下架商品" />
+      <item value="下架" />
       <item value="咨询者" />
       <item value="咨询老师" />
       <item value="咨询用户" />
@@ -49,8 +51,6 @@
       <item value="存为草稿" />
       <item value="浏览页面" />
       <item value="浏览数量" />
-      <item value="liulan" />
-      <item value="草稿" />
     </histories>
     <option name="languageScores">
       <map>
