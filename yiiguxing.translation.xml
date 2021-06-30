@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="加星的" />
       <item value="abnormally" />
       <item value="stopPropagation" />
       <item value="冒泡" />
@@ -30,7 +31,6 @@
       <item value="scope‘" />
       <item value="canary" />
       <item value="can" />
-      <item value="加星的" />
       <item value="sandbox" />
       <item value="日志记录" />
       <item value="记录日志" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="82" />
-        <entry key="ENGLISH" value="82" />
+        <entry key="ENGLISH" value="83" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AMHARIC" value="1" />
       </map>
