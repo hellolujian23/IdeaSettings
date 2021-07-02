@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="学习统计" />
+      <item value="每周学习统计" />
       <item value="强制" />
       <item value="强制的" />
       <item value="Duplicate" />
@@ -49,8 +51,6 @@
       <item value="joint" />
       <item value="联报专题" />
       <item value="联报" />
-      <item value="预览" />
-      <item value="锚点" />
     </histories>
     <option name="languageScores">
       <map>
