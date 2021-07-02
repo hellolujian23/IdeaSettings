@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="强制" />
+      <item value="强制的" />
+      <item value="Duplicate" />
       <item value="垂直" />
       <item value="地平线" />
       <item value="水平方向" />
@@ -48,14 +51,11 @@
       <item value="联报" />
       <item value="预览" />
       <item value="锚点" />
-      <item value="公开的" />
-      <item value="已发布的" />
-      <item value="自增" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="82" />
-        <entry key="ENGLISH" value="83" />
+        <entry key="CHINESE" value="83" />
+        <entry key="ENGLISH" value="84" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AMHARIC" value="1" />
       </map>
