@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="重发" />
+      <item value="禁止的" />
+      <item value="禁止" />
+      <item value="重复发送" />
       <item value="仅为" />
       <item value="认证信息" />
       <item value="打败" />
@@ -47,10 +51,6 @@
       <item value="操作时间" />
       <item value="群名片" />
       <item value="群" />
-      <item value="封面" />
-      <item value="封面图" />
-      <item value="scope" />
-      <item value="scope‘" />
     </histories>
     <option name="languageScores">
       <map>
