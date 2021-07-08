@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="仅为" />
       <item value="认证信息" />
       <item value="打败" />
       <item value="家庭作业" />
@@ -50,7 +51,6 @@
       <item value="封面图" />
       <item value="scope" />
       <item value="scope‘" />
-      <item value="canary" />
     </histories>
     <option name="languageScores">
       <map>
