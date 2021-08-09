@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="解释" />
+      <item value="说明" />
       <item value="可看见的" />
       <item value="聚合的" />
       <item value="聚合" />
@@ -49,8 +51,6 @@
       <item value="咨询顾问" />
       <item value="简介" />
       <item value="资讯" />
-      <item value="咨询" />
-      <item value="可以拖拽的" />
     </histories>
     <option name="languageScores">
       <map>
