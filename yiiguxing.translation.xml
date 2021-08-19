@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="出参" />
+      <item value="入参" />
       <item value="限制的" />
       <item value="排除" />
       <item value="解释" />
@@ -49,8 +51,6 @@
       <item value="下架" />
       <item value="咨询者" />
       <item value="咨询老师" />
-      <item value="咨询用户" />
-      <item value="咨询顾问" />
     </histories>
     <option name="languageScores">
       <map>
