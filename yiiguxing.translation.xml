@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="解析" />
+      <item value="正确的" />
+      <item value="准确的" />
+      <item value="唯一标识" />
+      <item value="标识" />
+      <item value="表单的属性onValuesChange" />
       <item value="出参" />
       <item value="入参" />
       <item value="限制的" />
@@ -45,12 +51,6 @@
       <item value="未保存的" />
       <item value="加星的" />
       <item value="abnormally" />
-      <item value="stopPropagation" />
-      <item value="冒泡" />
-      <item value="下架商品" />
-      <item value="下架" />
-      <item value="咨询者" />
-      <item value="咨询老师" />
     </histories>
     <option name="languageScores">
       <map>
