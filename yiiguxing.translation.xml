@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="双减" />
+      <item value="应对" />
       <item value="解析" />
       <item value="正确的" />
       <item value="准确的" />
@@ -49,8 +51,6 @@
       <item value="水平方向" />
       <item value="水平" />
       <item value="未保存的" />
-      <item value="加星的" />
-      <item value="abnormally" />
     </histories>
     <option name="languageScores">
       <map>
