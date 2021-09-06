@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="调试" />
       <item value="学科" />
       <item value="提醒" />
       <item value="双减" />
@@ -50,7 +51,6 @@
       <item value="Duplicate" />
       <item value="垂直" />
       <item value="地平线" />
-      <item value="水平方向" />
     </histories>
     <option name="languageScores">
       <map>
