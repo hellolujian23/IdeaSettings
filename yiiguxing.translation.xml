@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="领取" />
+      <item value="截至" />
+      <item value="截止" />
+      <item value="条件" />
+      <item value="赠送" />
+      <item value="给与" />
+      <item value="免费赠予" />
+      <item value="免费送" />
+      <item value="送" />
+      <item value="赠予" />
+      <item value="赠课" />
       <item value="margin" />
       <item value="调试" />
       <item value="学科" />
@@ -40,22 +51,11 @@
       <item value="联系方式" />
       <item value="作业" />
       <item value="课时" />
-      <item value="时长" />
-      <item value="学习时间" />
-      <item value="学习时长" />
-      <item value="最晚学习时间" />
-      <item value="排名" />
-      <item value="学习统计" />
-      <item value="每周学习统计" />
-      <item value="强制" />
-      <item value="强制的" />
-      <item value="Duplicate" />
-      <item value="垂直" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="84" />
-        <entry key="ENGLISH" value="84" />
+        <entry key="ENGLISH" value="85" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AMHARIC" value="1" />
       </map>
