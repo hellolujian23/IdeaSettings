@@ -71,7 +71,7 @@
     <option name="ignoreRegExp" value="" />
     <option name="phoneticFontFamily" value="Fira Code Medium" />
     <option name="primaryFontFamily" value="Droid Sans Mono" />
-    <option name="translator" value="fanyi.baidu" />
+    <option name="translator" value="ai.youdao" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="5e6eece365cdb5a0" />
