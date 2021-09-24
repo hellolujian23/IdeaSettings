@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="遍历" />
       <item value="可以领取的" />
       <item value="加星" />
       <item value="竟然" />
@@ -50,7 +51,6 @@
       <item value="小助手" />
       <item value="组装" />
       <item value="组装的" />
-      <item value="置顶的" />
     </histories>
     <option name="languageScores">
       <map>
@@ -62,9 +62,16 @@
     </option>
   </component>
   <component name="Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20190810000325554" />
+        <option name="appKeyConfigured" value="true" />
+      </app-key>
+    </option>
     <option name="ignoreRegExp" value="" />
     <option name="phoneticFontFamily" value="Fira Code Medium" />
     <option name="primaryFontFamily" value="Droid Sans Mono" />
+    <option name="translator" value="fanyi.baidu" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="5e6eece365cdb5a0" />
