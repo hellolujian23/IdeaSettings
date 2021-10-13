@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="分页" />
       <item value="价值" />
       <item value="潜力" />
       <item value="在有效期内" />
@@ -50,12 +51,11 @@
       <item value="解析" />
       <item value="正确的" />
       <item value="准确的" />
-      <item value="唯一标识" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="85" />
-        <entry key="ENGLISH" value="93" />
+        <entry key="ENGLISH" value="94" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AMHARIC" value="1" />
       </map>
