@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="包括的" />
+      <item value="学科" />
+      <item value="学科教育" />
       <item value="平台" />
       <item value="下架" />
       <item value="瀑布流" />
@@ -48,14 +51,11 @@
       <item value="免费送" />
       <item value="送" />
       <item value="赠予" />
-      <item value="赠课" />
-      <item value="margin" />
-      <item value="调试" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="85" />
-        <entry key="ENGLISH" value="101" />
+        <entry key="ENGLISH" value="103" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AMHARIC" value="1" />
       </map>
