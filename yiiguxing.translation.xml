@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="特定的" />
+      <item value="指定的" />
       <item value="cancel" />
       <item value="仓库商品" />
       <item value="仓库" />
@@ -49,13 +51,11 @@
       <item value="member" />
       <item value="领取" />
       <item value="加入者" />
-      <item value="参与" />
-      <item value="参与人" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="88" />
-        <entry key="ENGLISH" value="112" />
+        <entry key="ENGLISH" value="113" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AMHARIC" value="1" />
       </map>
