@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="抖音" />
       <item value="tiktok" />
       <item value="protocol" />
       <item value="特定的" />
@@ -50,12 +51,11 @@
       <item value="退出" />
       <item value="退群" />
       <item value="活动中" />
-      <item value="member" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="89" />
-        <entry key="ENGLISH" value="113" />
+        <entry key="ENGLISH" value="114" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AMHARIC" value="1" />
       </map>
