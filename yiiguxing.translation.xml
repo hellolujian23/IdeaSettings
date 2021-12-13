@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="联系方式" />
+      <item value="联系人" />
+      <item value="甲方" />
+      <item value="甲乙丙丁" />
+      <item value="甲" />
+      <item value="你好" />
       <item value="服务费" />
       <item value="合同费用" />
       <item value="合同" />
@@ -45,17 +51,11 @@
       <item value="潜力" />
       <item value="在有效期内" />
       <item value="有效" />
-      <item value="平铺的" />
-      <item value="平铺" />
-      <item value="例子" />
-      <item value="example" />
-      <item value="drop to gap" />
-      <item value="droptogap" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="89" />
-        <entry key="ENGLISH" value="122" />
+        <entry key="ENGLISH" value="124" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="AMHARIC" value="1" />
       </map>
